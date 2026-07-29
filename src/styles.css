@@ -390,3 +390,7 @@ html {
     transition: none;
   }
 }
+
+section[id] {
+  scroll-margin-top: 96px;
+}
