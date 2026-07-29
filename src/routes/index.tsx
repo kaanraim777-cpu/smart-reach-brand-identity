@@ -246,8 +246,7 @@ function Index() {
                 МД
               </div>
               <div>
-                <p className="text-sm font-semibold text-text">Мартин데
-                  Димитров</p>
+                <p className="text-sm font-semibold text-text">Мартин Димитров</p>
                 <p className="text-xs text-text-muted">Съосновател, Nordic Home</p>
               </div>
             </div>
